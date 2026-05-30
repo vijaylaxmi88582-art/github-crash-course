@@ -9,4 +9,5 @@ function newFn(){
 }
 function newFeatureAdd(){
     console.log('This is a new feat')
+    console.log('This is a new feat A')
 }
